@@ -1,0 +1,14 @@
+#main-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+#form-section {
+	width: 50%;
+}
+
+#name-section {
+	display: flex;
+}
